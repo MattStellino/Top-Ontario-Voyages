@@ -1,0 +1,181 @@
+body{
+	background-color: rgba(53, 50, 50, 0.836);
+    font-family: "TeX Gyre Scholar";
+    margin: 0px;
+}
+.center-img {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+}
+.img-ripley{
+    border: solid 5px black;
+
+}
+a:link{
+    color: rgb(218, 139, 22);
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(218, 139, 22);
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+}
+a:hover{
+    color: rgb(110, 4, 4);
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+.container .box { 
+    width:90%; 
+    margin-left: auto;
+    margin-right: auto; 
+    display:table; 
+    padding: 50px 0;
+    font-size: 25px;
+
+} 
+.container .box .box-row { 
+    display:table-row; 
+} 
+.container .box .box-cell { 
+    display:table-cell; 
+    width:0;
+    padding:0 100px;
+    text-align: center;
+} 
+.donation{
+    color: white;
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    background-color: grey;
+    border: 5px solid black;
+    padding-bottom: 20px;
+    display: block;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+}
+.donation-2{
+    padding: 0 10px;
+
+}
+.newsletter{
+    color: white;
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    background-color: grey;
+    font-family: "TeX Gyre Scholar";
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px 20px;
+    padding-bottom: 20px;
+    display: block;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+}
+.newsletter2{
+    font-family: "TeX Gyre Scholar";
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    background-color: grey;
+    border: 5px solid black;
+    padding: 10px 10px;
+    padding-bottom: 20px;
+    display: block;
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+}
+.menu{
+    font-weight: bold;
+    background-color:rgb(32, 32, 32);
+    padding:15px 15px;
+}
+.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    padding: 50px 0;
+}
+.h1-title{
+    color: rgb(218, 139, 22);
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h2-titleCasa{
+    color: rgb(218, 139, 22);
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+}
+.navbar{
+    text-align: center;  
+}
+.footer{
+    padding: 50px 50px;
+    color: rgb(218, 139, 22);
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div-pages{
+    width:90%; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 5%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    background-color: white;
+    border: solid 3px black;
+}
+.ripley-pages{
+    width:90%; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 5%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    background-color: white;
+    border: solid 3px black;
+}
+
+.shoptable{ 
+    width: 90%;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: white;
+    border: solid 3px black;
+}
+.back{
+    width: 90%;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 5%;
+}
+.p-intro{
+    color: white;
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    font-size: 18px;
+}
+.p-casa{
+    color: white;
+    text-shadow: 2px 0 0 black,0 2px 0 black,1px 0 0 black,0 3px 0 black;
+    font-size: 18px;
+}
+
+
